@@ -130,12 +130,12 @@ class AbdulRehman:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-2391&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" alt="Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulRehman-2391&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=12" alt="Top Langs"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman-2391&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&rank_icon=github" alt="Stats"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman-2391&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" alt="Top Langs"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman-2391&theme=tokyonight&border_radius=12" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=AbdulRehman-2391&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
 
 </div>
 
